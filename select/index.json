@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Selamat Jalan",
+  "base_artist": "Tipe-X",
+  "createdAt": "2026-02-28T20:21:00.164645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Selamat Jalan",
+      "artist": "Tipe-X",
+      "has_synced": true,
+      "path": "select/01_Selamat_Jalan_Tipe-X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Selamat Jalan Mama",
+      "artist": "Ari Lasso",
+      "has_synced": true,
+      "path": "select/02_Selamat_Jalan_Mama_Ari_Lasso.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Selamat Jalan Kekasih (Special Guest : Maizura)",
+      "artist": "Chrisye feat. D’MASIV",
+      "has_synced": true,
+      "path": "select/03_Selamat_Jalan_Kekasih_(Special_Guest___Maizura)_Chrisye_feat._D’MASIV.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Selamat Jalan kekasih",
+      "artist": "Rita Effendy",
+      "has_synced": true,
+      "path": "select/04_Selamat_Jalan_kekasih_Rita_Effendy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tidak Ada Salju Di Sini Pt.6 (Selamat Jalan)",
+      "artist": "Lomba Sihir",
+      "has_synced": true,
+      "path": "select/05_Tidak_Ada_Salju_Di_Sini_Pt.6_(Selamat_Jalan)_Lomba_Sihir.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Selamat Jalan Kekasih",
+      "artist": "Chrisye",
+      "has_synced": true,
+      "path": "select/06_Selamat_Jalan_Kekasih_Chrisye.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tidak Ada Salju di Sini, Pt. 6 (Selamat Jalan)",
+      "artist": "Lomba Sihir ft. Petra Sihombing",
+      "has_synced": true,
+      "path": "select/07_Tidak_Ada_Salju_di_Sini,_Pt._6_(Selamat_Jalan)_Lomba_Sihir_ft._Petra_Sihombing.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Selamat Jalan",
+      "artist": "Tipe - X",
+      "has_synced": true,
+      "path": "select/08_Selamat_Jalan_Tipe_-_X.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Selamat Jalan (Live)",
+      "artist": "Tipe-X",
+      "has_synced": true,
+      "path": "select/09_Selamat_Jalan_(Live)_Tipe-X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SELAMAT JALAN",
+      "artist": "Mercy Production",
+      "has_synced": false,
+      "path": "select/10_SELAMAT_JALAN_Mercy_Production.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Selamat Jalan",
+      "artist": "tipe-X",
+      "has_synced": true,
+      "path": "select/11_Selamat_Jalan_tipe-X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Selamat Jalan Duka",
+      "artist": "Nike Ardilla",
+      "has_synced": true,
+      "path": "select/12_Selamat_Jalan_Duka_Nike_Ardilla.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Selamat Jalan",
+      "artist": "J-Rocks",
+      "has_synced": true,
+      "path": "select/13_Selamat_Jalan_J-Rocks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Selamat Jalan Sayang",
+      "artist": "Asbak Band",
+      "has_synced": true,
+      "path": "select/14_Selamat_Jalan_Sayang_Asbak_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Selamat Jalan Kekasih",
+      "artist": "Chrisye",
+      "has_synced": true,
+      "path": "select/15_Selamat_Jalan_Kekasih_Chrisye.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Selamat Jalan",
+      "artist": "Tipe-X",
+      "has_synced": true,
+      "path": "select/16_Selamat_Jalan_Tipe-X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Selamat Jalan",
+      "artist": "Tipe-X",
+      "has_synced": false,
+      "path": "select/pl_01_Selamat_Jalan_Tipe-X.txt"
+    }
+  ]
+}
